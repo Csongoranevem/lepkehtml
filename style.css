@@ -1,0 +1,48 @@
+body{
+    background-color: darkslategray;
+}
+
+#ejjelibody{
+    background-color: white;
+}
+
+h1{
+color: white;
+text-align: center;
+}
+
+img{
+    border: 1px solid;
+}
+
+table{
+    width: 640px;
+    background-color: darkslategray;
+    margin: 0 auto;
+
+}
+
+.nappalitb{
+    width: 640px;
+    background-image: url(./hatter.jpg);
+    margin: 0 auto;
+    
+}
+td{
+    padding: 5px;
+}
+
+.ejjeli{
+    color: black;
+}
+
+.ejjelicim{
+    color: black;
+}
+
+
+.nappali{
+    color: white;
+}
+
+
